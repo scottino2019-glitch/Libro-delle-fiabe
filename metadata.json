@@ -1,0 +1,8 @@
+{
+  "name": "Creatore di Libri Illustrati",
+  "description": "Crea libri illustrati interattivi sovrapponendo sfondi, personaggi e testi artistici. Esporta il risultato in formato PDF di alta qualità.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
